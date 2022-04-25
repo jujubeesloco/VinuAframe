@@ -1,2 +1,5 @@
 theme: jekyll-theme-tactile
-github: is_project_page: false
+github:
+is_project_page: false
+title: VinuStation
+description: VinuStation in Aframe
