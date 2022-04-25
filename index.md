@@ -72,7 +72,7 @@
       <a-entity light="distance: 1; intensity: 0.3; type: point" position="19.661 1.277 -0.751"></a-entity>
       
       
-      <a-entity geometry="primitive: plane" rotation="-30.006945646591472 -90.00021045914971 0" scale="0.24114 0.16716 1" position="19.63137 1.19682 -1.23415" material="src: https://raw.githubusercontent.com/jujubeesloco/VinuAframe/main/VinuCode.mp4"></a-entity>
+      <a-entity geometry="primitive: plane" rotation="-30.006945646591472 -90.00021045914971 0" scale="0.24114 0.16716 1" position="19.63137 1.19682 -1.23415" autoplay loop="true" material="src: https://raw.githubusercontent.com/jujubeesloco/VinuAframe/main/VinuCode.mp4"></a-entity>
       
 
       <a-entity geometry="primitive: sphere; radius: 0.3;" position="19.206 1.594 -1.250" material="offset:  [object Object];  opacity:  0.5;  repeat:  [object Object];  ambientOcclusionTextureOffset:  [object Object];  ambientOcclusionTextureRepeat:  [object Object];  displacementTextureOffset:  [object Object];  displacementTextureRepeat:  [object Object];  metalnessTextureOffset:  [object Object];  metalnessTextureRepeat:  [object Object];  normalScale:  [object Object];  normalTextureOffset:  [object Object];  normalTextureRepeat:  [object Object];  roughnessTextureOffset:  [object Object];  roughnessTextureRepeat:  [object Object]"></a-entity>
