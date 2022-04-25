@@ -1,3 +1,5 @@
+github:
+  is_project_page: false
 <html>
   <head>
     <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
