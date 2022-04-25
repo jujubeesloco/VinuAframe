@@ -82,7 +82,7 @@
       
       
       
-      <a-entity nav-mesh geometry="primitive: plane; height: 10; width: 10" position="9.510 0 -1.293" scale="2 0.055 1" rotation="-90 0 0"></a-entity>
+      <a-entity nav-mesh geometry="primitive: plane; height: 10; width: 10" position="9.510 0 -1.293" scale="2 0.055 1" rotation="-90 0 0" visible="false" transparent="true"></a-entity>
      
     
       <a-entity id="rig" movement-controls="constrainToNavMesh: true" twoway-motion="nonMobileLoad: false" trackpad-controls="" position="1.297 0 -1.224">
