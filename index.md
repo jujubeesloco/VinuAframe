@@ -13,7 +13,7 @@
 
    </head>
   <body>
-    <a-scene>
+    <a-scene vr-mode-ui="enabled: false">
      
       
       <a-entity light="color: #f06265; intensity: 0.5; type: spot; distance: 5;" position="-0.616 2.152 -1.235" rotation="-89.995 -0.001 0" ></a-entity>
