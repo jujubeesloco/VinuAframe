@@ -93,7 +93,5 @@
      
       <a-sky color="#000000"></a-sky>
     </a-scene>
-      github:
-  is_project_page: false
   </body>
 </html>
