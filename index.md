@@ -1,5 +1,4 @@
-github:
-  is_project_page: false
+
 <html>
   <head>
     <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
@@ -94,5 +93,7 @@ github:
      
       <a-sky color="#000000"></a-sky>
     </a-scene>
+      github:
+  is_project_page: false
   </body>
 </html>
